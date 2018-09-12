@@ -2,4 +2,4 @@ This project is an implementation of a webcam-screen communication in one way. A
 
 image_creation file starts the process from emitter side and threaded_decoding starts process from receiver side
 
-Authors: Thierry Bossy, Ignacion Aleman, Niro V.
+Authors: Thierry Bossy, Ignacio Aleman, Niro V.
